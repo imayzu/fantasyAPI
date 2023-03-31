@@ -1,0 +1,50 @@
+[
+  {
+    "domain": ".ajio.com",
+    "expirationDate": 1691323647.364022,
+    "httpOnly": false,
+    "name": "PK",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "storeId": "0",
+    "value": "5Puqt%2FKqS6tnQ29eZNZDPQ%3D%3D",
+    "url": "https://www.ajio.com/"
+  },
+  {
+    "domain": ".ajio.com",
+    "expirationDate": 1691323647.36409,
+    "httpOnly": true,
+    "name": "R",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "storeId": "0",
+    "value": "107e8f77-2572-43f4-90a4-929bc070ce3e",
+    "url": "https://www.ajio.com/"
+  },
+  {
+    "domain": ".ajio.com",
+    "expirationDate": 1691323647.364032,
+    "httpOnly": false,
+    "name": "SN",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "storeId": "0",
+    "value": "Devil%20Br",
+    "url": "https://www.ajio.com/"
+  },
+  {
+    "domain": ".ajio.com",
+    "expirationDate": 1691323647.36406,
+    "httpOnly": false,
+    "name": "U",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "storeId": "0",
+    "value": "iecindb%40hi2.in",
+    "url": "https://www.ajio.com/"
+  }
+]
